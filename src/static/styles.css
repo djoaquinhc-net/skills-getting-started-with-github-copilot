@@ -74,6 +74,29 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card .participants-container {
+  margin-top: 12px;
+}
+
+.activity-card .participants-container strong {
+  display: block;
+  margin-bottom: 6px;
+  color: #333;
+  font-size: 14px;
+}
+
+.participants-list {
+  margin-top: 6px;
+  padding-left: 20px;
+  color: #444;
+}
+
+.participants-list li {
+  margin-bottom: 6px;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
